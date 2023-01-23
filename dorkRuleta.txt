@@ -1,4 +1,3 @@
-
 "MySQL_ROOT_PASSWORD:" "docker-compose" ext:yml
 !Host=*.* intext:enc_UserPassword=* ext:pcf
 !Host=. intext:enc_UserPassword= ext:pcf
